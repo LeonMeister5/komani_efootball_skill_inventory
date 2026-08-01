@@ -1,0 +1,4 @@
+customtkinter>=5.2,<6
+pytest>=8,<10
+pyinstaller>=6,<7
+
